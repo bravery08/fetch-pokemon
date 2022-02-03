@@ -1,0 +1,21 @@
+button {
+    background-color: #D81B1B;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.mat-dialog-title {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.mat-dialog-actions {
+    justify-content: center;
+}
+
+.mat-dialog-content {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
